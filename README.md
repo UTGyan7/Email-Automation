@@ -89,3 +89,8 @@ No additional packages are required!
 ## 🤝 Contributing
 
 Feel free to fork this repository and submit pull requests for any improvements.
+
+---
+
+⚡ Built by [Utkarsh Gyan](https://github.com/UTGyan7) — I build fast & freelance small gigs too. DM me!
+
